@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+	int x,y;
+	cin>>x>>y;
+	for(int i=min(x,y);i>=1;i--)
+	{
+		if(x%i==0 && y%i==0)
+		{
+			cout<<"GCD IS: "<<i<<endl;
+			break;
+		}
+	}
+	int t=(x>y)?x:y;
+	for(int i=t;i<100000;i++)
+	{
+	if(i%x==0 && i%y==0)
+	{
+		cout<<"LCM IS:"<<i<<endl;
+		break;
+	}
+	}
+}

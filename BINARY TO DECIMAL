@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define ll long long
+
+int main()
+{
+	int n,s=0,c=0;
+	cin>>n;
+	while(n>0)
+	{
+		s+=pow(2,c)*(n%10);
+		n=n/10;
+		c++;
+	}
+	cout<<s<<endl;
+}

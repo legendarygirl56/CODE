@@ -1,7 +1,7 @@
 # DynamicProgramming(using Java) <br>
 
 
-|Problem name| Solution |
+|Problem's| Solution |
 |:---------:|:----------:|
 |BoardPath|[BoardPath.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/BoardPath.java)|
 |CoinChange|[CoinChange.java](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/CoinChange.java)|
@@ -13,3 +13,6 @@
 |Knapsack|[Knapsack.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/Knapsack.java)|
 |SubsetSum|[SubsetSum.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/SubsetSum.java)
 |CountNumBinaryStrings|[CountNumBinaryStrings.java](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/CountNumBinaryStrings)|
+|LongestCommonSubsequence|[LongestCommonSubsequence.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/LongestCommonSubsequence.java)|
+|LongestIncreasingSubsequence|[LongestIncreasingSubsequence.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/LongestIncreasingSubsequence.java)|
+|LongestValidParentheses|[LongestValidParentheses.java](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/LongestValidParentheses.java)|
